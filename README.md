@@ -4,7 +4,7 @@
 
 <h3>💫 More about me</h3>
 
-- 🔭 I’m currently working on **Utility App**
+- 🔭 I’m currently working on **Odoo ERP** where I'm creating custom modules related to school management (accounting, students, parents, teachers...) 
 
 - 👯 I’m looking to collaborate on **any kind of software development projects**
 
@@ -45,8 +45,8 @@
 ![Audacity](https://img.shields.io/badge/Audacity-%230077B5.svg?style=for-the-badge&logo=audacity&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 ## 📊 GitHub Stats
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=noumendarryl&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8)
-  ![](https://github-readme-stats.vercel.app/api?username=noumendarryl&theme=default&show_icons=true&icon_color=34abeb&hide_border=false) <br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-tchounga&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8)
+  ![](https://github-readme-stats.vercel.app/api?username=mr-tchounga&theme=default&show_icons=true&icon_color=34abeb&hide_border=false) <br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=noumendarryl&theme=default&hide_border=false)
   
 ### 🏆 GitHub Trophies
